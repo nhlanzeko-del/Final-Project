@@ -1,13 +1,18 @@
-# Assignment Solution
+# 🏥 Clinic Booking System API
 
-## Question Chosen
-[Briefly describe the question you chose]
+This project is a RESTful API built with **FastAPI** that manages Patients and Appointments in a clinic system.  
+It connects to a **MySQL** database and supports full CRUD operations.
 
-## Solution Approach
-[Explain your approach to solving the problem]
+---
 
-## How to Run
-[Provide instructions on how to run/test your solution]
+## 📦 Technologies Used
 
-## Dependencies
-[List any dependencies if applicable]
+- FastAPI
+- SQLAlchemy
+- MySQL
+- Pydantic
+
+---
+
+## 📁 Project Structure
+
