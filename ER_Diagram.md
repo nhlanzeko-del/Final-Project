@@ -3,7 +3,6 @@ erDiagram
     MEMBERS ||--o{ LOANS : places
     MEMBERS ||--o{ RESERVATIONS : makes
     MEMBERS ||--o{ FINES : accrues
-
     %% Book Relationships
     BOOKS ||--o{ LOANS : borrowed_in
     BOOKS ||--o{ RESERVATIONS : reserved_in
